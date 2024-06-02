@@ -8,7 +8,7 @@ Brief:
 5.	Send the result with the code, explain the code, and screenshot of file above on hdfs and zip it all.
 6.	Good luck ;)
 7.	
-## No.2
+## No.1
 
 To run it :
 1. build the postgres image
@@ -38,6 +38,25 @@ localhost:8000/trigger_pokemon_effects_to_csv/
 ```
 6. you can look the csv file on /tmp/
 
+## No.2 Alternative
+1. First, you can `venv` for hint API then install requirements
+```
+# for Windows
+python3 -m venv venv
+# or
+python -m venv venv
+
+# for Linux
+source venv/bin/activate
+```
+
+2. Then, you can install requirements
+```
+pip install -r scripts/requirements/modules.txt
+```
+
+3. And finally, you can run `python parsing-api.py` on PowerShell or Linux
+   
 # How to Save data with format .csv into hdfs on Hadoop Container?
 1. First, you can build and run a hadoop container
 ```
