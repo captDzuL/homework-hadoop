@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## No.2
 
 To run it :
@@ -60,3 +61,5 @@ bash -c \
 docker exec docker-hadoop-namenode-1 \
 bash -c \
 "hadoop fs -rm -f -r /data-poke"
+=======
+>>>>>>> 3c18b4a (Initial commit)
