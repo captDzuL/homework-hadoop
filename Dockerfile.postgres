@@ -1,0 +1,10 @@
+FROM postgres:latest
+
+ENV POSTGRES_USER=poke
+ENV POSTGRES_PASSWORD=p0k3!!123
+ENV POSTGRES_DB=pokebase
+
+# if you want to check the result on local
+EXPOSE 5432
+
+COPY ./no_2_fast_api/init.sql /docker-entrypoint-initdb.d/
