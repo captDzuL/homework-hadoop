@@ -1,0 +1,117 @@
+id,pokemon_ability_id,effect,language,short_effect
+201,201,"Whenever this Pokémon takes damage from a move that causes its HP to drop below 50%, its Special Attack rises by one stage.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Raises this Pokémon's Special Attack by one stage every time its HP drops below half.
+202,202,"During Hail, this Pokémon has double Speed.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","During Hail, this Pokémon has double Speed."
+203,203,A move used by this Pokémon will not make contact.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",This Pokémon's moves do not make contact.
+204,204,"When this Pokémon uses a move that is sound-based, that move's type is Water.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Sound-based moves become Water-type.
+205,205,This Pokémon's healing moves have their priority increased by 3.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",This Pokémon's healing moves have their priority increased by 3.
+206,206,"When this Pokémon uses a Normal moves, that move is Electric its power is 1.2×.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",This Pokémon's Normal moves are Electric and have their power increased to 1.2×.
+207,207,Doubles this Pokémon's Speed on Electric Terrain.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Doubles this Pokémon's Speed on Electric Terrain.
+208,208,"If this Pokémon is a wishiwashi and level 20 or above, then when it enters battle and at the start of each turn, it becomes Schooling Form if its HP is 25% or higher and Solo Form otherwise.
+
+This ability cannot be replaced, copied, or nullified.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Wishiwashi becomes Schooling Form when its HP is 25% or higher.
+209,209,"If this Pokémon is in its Disguised Form and takes damage from a move, it switches to its Busted Form and the damage is prevented.  Other effects are not prevented.
+
+This ability cannot be copied or replaced.  This ability only takes effect for Mimikyu.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Prevents the first instance of battle damage.
+210,210,"Transforms this Pokémon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times.
+
+This ability cannot be copied or replaced.  This ability only takes effect for Greninja.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Transforms this Pokémon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times.
+211,211,"Transforms 10% or 50% Zygarde into Complete Forme when its HP is below 50%.
+
+This ability cannot be copied or replaced.  This ability only takes effect for Zygarde.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Transforms 10% or 50% Zygarde into Complete Forme when its HP is below 50%.
+212,212,This Pokémon's moves and item ignore the usual immunity of Poison and Steel Pokémon when attempting to inflict poison.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",This Pokémon can inflict poison on Poison and Steel Pokémon.
+213,213,This Pokémon always acts as though it were Asleep.  It cannot be given another status ailment; it's unaffected by yawn; it can use sleep talk; and so on.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",This Pokémon always  acts as though it were Asleep.
+214,214,"When an opposing Pokémon attempts to use a move that targets this Pokémon or an ally, and that move has priority, it will fail.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Opposing Pokémon cannot use priority attacks.
+215,215,"When this Pokémon faints from an opponent's move, that opponent takes damage equal to the HP this Pokémon had remaining.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","When this Pokémon faints from an opponent's move, that opponent takes damage equal to the HP this Pokémon had remaining."
+216,216,"Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards."
+217,217,Ally Pokémon's moves have their power increased to 1.3×.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Ally Pokémon's moves have their power increased to 1.3×.
+218,218,Damage from contact moves is halved.  Damage from Fire moves is doubled.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Damage from contact moves is halved.  Damage from Fire moves is doubled.
+219,219,"When an opposing Pokémon attempts to use a move that targets this Pokémon or an ally, and that move has priority, it will fail.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Opposing Pokémon cannot use priority attacks.
+220,220,This Pokémon's Special Attack rises by one stage every time any Pokémon faints.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",This Pokémon's Special Attack rises by one stage every time any Pokémon faints.
+221,221,"When this Pokémon takes regular damage from a contact move, the attacking Pokémon's Speed lowers by one stage.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","When this Pokémon takes regular damage from a contact move, the attacking Pokémon's Speed lowers by one stage."
+222,222,"When an ally faints, this Pokémon gains its Ability.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","When an ally faints, this Pokémon gains its Ability."
+223,223,"When an ally faints, this Pokémon gains its Ability.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","When an ally faints, this Pokémon gains its Ability."
+224,224,Raises this Pokémon's highest stat by one stage when it faints another Pokémon.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Raises this Pokémon's highest stat by one stage when it faints another Pokémon.
+225,225,"Changes this Pokémon's type to match its held Memory.
+
+This ability cannot be copied, replaced, or nullified.  This ability only takes effect for Silvally.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Changes this Pokémon's type to match its held Memory.
+226,226,"When this Pokémon enters battle, it changes the terrain to electric terrain.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","When this Pokémon enters battle, it changes the terrain to Electric Terrain."
+227,227,"When this Pokémon enters battle, it changes the terrain to psychic terrain.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","When this Pokémon enters battle, it changes the terrain to Psychic Terrain."
+228,228,"When this Pokémon enters battle, it changes the terrain to misty terrain.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","When this Pokémon enters battle, it changes the terrain to Misty Terrain."
+229,229,"When this Pokémon enters battle, it changes the terrain to grassy terrain.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
+230,230,"This Pokémon's stats cannot be lowered by other Pokémon's moves or abilities.  This effect only applies to normal stat modifications and not more exotic effects such as topsy turvy or power swap.
+
+This Ability is not bypassed by mold breaker, teravolt, or turboblaze.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Other Pokémon cannot lower this Pokémon's stats.
+231,231,"When this Pokémon has full HP, regular damage (not fixed damage!) from moves is halved.
+
+This ability cannot be nullified.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}","When this Pokémon has full HP, regular damage from moves is halved."
+232,232,"Super-effective damage this Pokémon takes is reduced to 0.75×.
+
+This Ability is not bypassed by mold breaker, teravolt, or turboblaze.","{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Reduces super-effective damage to 0.75×.
+233,233,Increases super-effective damage dealt to 1.25×.,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",Increases super-effective damage dealt to 1.25×.
+234,234,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+235,235,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+236,236,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+237,237,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+238,238,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+239,239,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+240,240,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+241,241,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+242,242,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+243,243,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+244,244,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+245,245,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+246,246,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+247,247,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+248,248,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+249,249,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+250,250,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+251,251,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+252,252,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+253,253,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+254,254,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+255,255,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+256,256,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+257,257,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+258,258,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+259,259,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+260,260,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+261,261,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+262,262,,"{'name': 'de', 'url': 'https://pokeapi.co/api/v2/language/6/'}",
+263,263,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+264,264,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+265,265,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+266,266,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+267,267,,"{'name': 'ja-Hrkt', 'url': 'https://pokeapi.co/api/v2/language/1/'}",
+268,268,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+269,269,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+270,270,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+271,271,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+272,272,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+273,273,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+274,274,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+275,275,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+276,276,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+277,277,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+278,278,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+279,279,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+280,280,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+281,281,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+282,282,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+283,283,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+284,284,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+285,285,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+286,286,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+287,287,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+288,288,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+289,289,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+290,290,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+291,291,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+292,292,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+293,293,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+294,294,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+295,295,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+296,296,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+297,297,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+298,298,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+299,299,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
+300,300,,"{'name': 'en', 'url': 'https://pokeapi.co/api/v2/language/9/'}",
