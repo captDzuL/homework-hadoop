@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## No.2
 
 To run it :
@@ -63,3 +64,14 @@ bash -c \
 "hadoop fs -rm -f -r /data-poke"
 =======
 >>>>>>> 3c18b4a (Initial commit)
+=======
+Brief:
+
+1.	Running hadoop on your local machine using hadoop
+2.	Create a python script that hit "https://pokeapi.co/api/v2/ability/" + pokemon_ability_id  from ability id 1 - 999
+3.	Save that ability id into csv per 100 ability id (example : id 1 - 100 on result_1_100.csv, id 101 - 200 on result_101_200.csv and so on) with these columns id,pokemon_ability_id,effect,language,short_effect (expected like below picture but with id on the left side of pokemon_ability_id) basically the parsing side is already handled by code that I give on last session.
+ 
+4.	Save the csv into hdfs
+5.	Send the result with the code, explain the code, and screenshot of file above on hdfs and zip it all.
+6.	Good luck ;)
+>>>>>>> 9974b1b (Update README.md)
